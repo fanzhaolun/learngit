@@ -6,3 +6,5 @@ Creating a new branch is quick
 Creating a new branch is quick and simple
 add a new merge
 add dev merge
+dev merge
+dsa:wq
